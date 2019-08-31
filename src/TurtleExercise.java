@@ -1,7 +1,7 @@
 
 import unit4.turtleLib.Turtle;
 
-public class TurtuleExercise {
+public class TurtleExercise {
 	
 	
 	public static void printrectangle(int width, int height) {

@@ -15,6 +15,7 @@ public class ClassCode {
 		//printrectangle(50,100);
 	
 	}
+	//TODO: make this function work for any size of array
 	public static int findPopularInInstagram(int [] instagramLikes) {
 	    int max_likes = instagramLikes[0];
 		int index_of_popular = 0;
